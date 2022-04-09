@@ -1,0 +1,18 @@
+{
+  "name": "forgeapp",
+  "version": "1.0.0",
+  "description": "Forge App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^2.0.0",
+    "express": "^4.17.3",
+    "forge-apis": "^0.9.0",
+    "multer": "^1.4.4"
+  }
+}
